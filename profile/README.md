@@ -1,12 +1,14 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/0f5e3182-0817-48f4-ae9a-4094d37135b1)
 
-<!--
+Linked Paper leverages semantic analysis and graph-based visualization to enhance academic paper discovery and provide personalized recommendations.
 
-**Here are some ideas to get you started:**
+## Features
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Semantic Search
+  - Find exactly what you’re looking for with Semantic Search. Unlike keyword-only searches, our technology understands the context of your queries, delivering highly relevant and accurate research results every time.
+  
+#### Correlations with Graph View
+  - Effortlessly uncover relationships between papers with Correlations in Graph View. This interactive, visual experience helps you explore complex connections at a glance, making insights clearer and more accessible than ever.
+
+#### Fine-grained Filtering
+  - Discover papers tailored to your needs with Fine-Grained Filtering. Customize search criteria down to the finest detail, ensuring that you quickly find papers that truly match your research focus.
